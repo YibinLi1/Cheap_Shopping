@@ -1,7 +1,5 @@
 {
-  "cart": [
-    
-  ],
+  "cart": [],
   "inventory": [
     {
       "content": "apple",
@@ -10,6 +8,18 @@
     {
       "content": "peach",
       "id": 2
+    },
+    {
+      "content": "lemon",
+      "id": 3
+    },
+    {
+      "content": "blue berry",
+      "id": 4
+    },
+    {
+      "content": "watermelon",
+      "id": 5
     }
   ]
 }
