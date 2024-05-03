@@ -85,6 +85,7 @@ const Model = (() => {
       this.#onChange = cb;
     }
   }
+  
 
   const { getCart, updateCart, getInventory, addToCart, deleteFromCart, checkout } = API;
 
